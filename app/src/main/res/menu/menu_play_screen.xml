@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".PlayScreen">
+    <item android:id="@+id/show_nerd_stats" android:title="@string/show_nerd_stats"
+        android:orderInCategory="100" app:showAsAction="never" android:icon="@android:drawable/sym_contact_card" />
+</menu>
